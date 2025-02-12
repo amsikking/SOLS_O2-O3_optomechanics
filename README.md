@@ -13,5 +13,7 @@ This repository contains CAD for an objective 2-3 (O2-O3) assembly that is recom
 
 A total of 10 optical configurations are possible: [see this animation](https://github.com/amsikking/SOLS_O2-O3_optomechanics/blob/main/animation/output.gif).
 
+**Note:** It also comes in 'left hand' and 'right hand' versions to accomodate different table layouts, so actually it's 20 configurations.
+
 ## Acknowledgments:
 Inspired by, and with contributions from: [fadero](https://github.com/fadero), [jlazzaridean](https://github.com/jlazzaridean) and [AndrewGYork](https://github.com/AndrewGYork).
