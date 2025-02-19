@@ -2,6 +2,8 @@
 
 Some stiffness tests with O2-O3 in various optomechanical arrangements.
 
+![social_preview](https://github.com/amsikking/SOLS_O2-O3_optomechanics/blob/main/stiffness_testing/10_breadboard_with_tombstone_close-up.jpg)
+
 ## Goal:
 
 To find a mechanical arrangement that is 'stiff enough' to maintain O2-O3 alignment during 'normal operations' with the microscope. Normal operations are things like:
