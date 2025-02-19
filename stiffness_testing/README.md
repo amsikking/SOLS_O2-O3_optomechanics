@@ -21,6 +21,8 @@ To find a mechanical arrangement that is 'stiff enough' to maintain O2-O3 alignm
 ## Testing:
 Apply pressure between O2-O3 and check the shear plate for deviations to collimation. Record pressure required to achieve 1 fringe worth of rotation with the 5-10mm shear plate.
 
+**Note:** Any observable fringe motion on the shear plate is indicative of significant defocus between O2-O3 and is not good.
+
 ## Results:
 0) [**Collimation check:**](https://github.com/amsikking/SOLS_O2-O3_optomechanics/blob/main/stiffness_testing/00_collimation_check.jpg) an example of the collimated laser beam on the shear plate.
 1) [**Force test example:**](https://github.com/amsikking/SOLS_O2-O3_optomechanics/blob/main/stiffness_testing/01_force_test_example.jpg) an example of the force test. A "Tension and Compression Force Gauge for Tight Spaces, 40 lbs. Capacity" from McMaster was used (part number 1365T24).
@@ -37,4 +39,4 @@ Apply pressure between O2-O3 and check the shear plate for deviations to collima
 **Note:** for test 10 the pressure was also directly applied to the tombstone in various locations with no visible movement of the fringes on the shear plate.
 
 ## Conclusion:
-**A single 'monolithic' aluminium mount for O2-O3 is the preferred mounting solution for stiffness** (e.g. the Thorlabs 'tombstone'). Even with a relatively floppy breadboard for the base (test 8 onwards) a human cannot reasonable misalign O2-O3 with normal pressure on or around the base plate (up to 40lb).
+**A single 'monolithic' aluminium mount for O2-O3 is the preferred mounting solution for stiffness** (e.g. the Thorlabs 'tombstone'). Even with a relatively floppy breadboard for the base (test 8 onwards) a human cannot reasonable misalign O2-O3 with normal pressure on or around the base plate (tested up to 40lb).
