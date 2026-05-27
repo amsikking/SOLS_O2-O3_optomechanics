@@ -1,4 +1,7 @@
 # SOLS_O2-O3_optomechanics
+
+<a href="https://doi.org/10.5281/zenodo.20413763"><img src="https://img.shields.io/badge/DOI-10.5281/zenodo.20413763-blue.svg" alt="DOI"></a>
+
 Optomechanics for 'O2-O3' in a single-objective light-sheet (SOLS) microscope.
 
 ![social_preview](https://github.com/amsikking/SOLS_O2-O3_optomechanics/blob/main/social_preview.jpg)
